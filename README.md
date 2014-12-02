@@ -1,0 +1,4 @@
+wiGenerator
+===========
+
+Webindex data generator
